@@ -1,6 +1,6 @@
 # Forest - Windhawk-based theme for Windows 11
-<img src="screenshot.png" width="500px"> <br>
-<img src="screenshot1.png" width="150px">
+<img src="screenshot.png" width="600px"> <br>
+<img src="screenshot1.png" width="300px">
 <hr>
 
 So what is it? This is repositorium with my configuration files for Windhawk plugins to make Windows 11 more appealing and minimal with nature accent.
